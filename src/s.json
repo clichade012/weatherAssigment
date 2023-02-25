@@ -1,0 +1,8 @@
+{"coord":{"lon":79.1,"lat":21.15},
+"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],
+"base":"stations","main":{"temp":69.82,"feels_like":69.31,"temp_min":69.82,"temp_max":69.82,"pressure":1014,"humidity":60},
+"visibility":3000,"wind":{"speed":0,"deg":0},"clouds":{"all":0},
+"dt":1676916474,
+"sys":{"type":1,"id":9069,"country":"IN",
+"sunrise":1676855481,"sunset":1676897026},
+"timezone":19800,"id":1262180,"name":"Nagpur","cod":200}
